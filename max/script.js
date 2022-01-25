@@ -18,7 +18,6 @@ alert("You traveled "+d+" km/h");
 
 
 
-
 function calculateDollars(myDollars, myEuro) {
     return myDollars * myEuro;
 }

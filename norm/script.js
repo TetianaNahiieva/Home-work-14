@@ -1,8 +1,7 @@
-  var myName = prompt("What's your name?","");      
-  alert("Hello " + myName + "!");
+var myName = prompt("What's your name?","");      
+alert("Hello " + myName + "!");
 
   
-
 var numberOfYear = 2022;
 var mySide = prompt("What year of birth?","");      
 alert("You are " + (numberOfYear - mySide) + " years old");
